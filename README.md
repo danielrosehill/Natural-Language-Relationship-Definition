@@ -1,4 +1,4 @@
-# Experiment: Natural Language To Database Schema (With GPT)
+# Can GPT Help Build A Database Schema? An Experiment!
 
 Experiment: trying to create a database schema using natural language prompting to GPT (and iterative refinement).
 
@@ -9,11 +9,6 @@ ORM: Eloquent
 **Note**
 
 It's highly likely that there are much smarter ways of doing what I'm trying to do. Just an experiment!
-
-## Purpose Statement
-
-
-## Use Case Statement
 
 ## Author
 
